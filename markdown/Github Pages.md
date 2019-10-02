@@ -1,5 +1,7 @@
 # Materi Praktikum POSA
 
+![linux](img/linux.png)
+
 ## Daftar Isi Praktikum
 
 1. [Praktikum 1: Install & Berkenalan dengan GNU/Linux.](https://praktikum-posa.github.io/praktikum-satu/)
